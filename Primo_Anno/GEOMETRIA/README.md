@@ -1,14 +1,15 @@
 # GEOMETRIA
 ## ARGOMENTI
-- GRUPPO <br>
-- CAMPO <br>
-- SPAZIO VETTORIALE <br>
-- MATRICI <br>
-- SOTTOSPAZI VETTORIALI <br>
-- SOMMA DIRETTA <br>
-- BASE <br>
-- GENERATORI <br>
-- MATRICI E SISTEMI LINEARI <br>
+#### GRUPPO
+#### CAMPO
+#### SPAZIO VETTORIALE
+[Spazi Vettoriali](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/GEOMETRIA/Spazi%20Vettoriali.pdf)
+#### MATRICI
+#### SOTTOSPAZI VETTORIALI
+#### SOMMA DIRETTA
+#### BASE
+#### GENERATORI 
+#### MATRICI E SISTEMI LINEARI
 Esercizi: [Sistemi Lineari Parametrici](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/GEOMETRIA/Esercizi%20Sistemi%20Lineari%20Parametrici.pdf) <br>
-- INVERSA DI UNA MATRICE <br>
-- RANGO <br>
+#### INVERSA DI UNA MATRICE
+#### RANGO
