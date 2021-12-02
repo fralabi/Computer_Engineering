@@ -13,3 +13,6 @@
 Esercizi: [Sistemi Lineari Parametrici](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/GEOMETRIA/Esercizi%20Sistemi%20Lineari%20Parametrici.pdf) <br>
 #### INVERSA DI UNA MATRICE
 #### RANGO
+
+### YOUTUBE PLAYLIST 
+[Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
