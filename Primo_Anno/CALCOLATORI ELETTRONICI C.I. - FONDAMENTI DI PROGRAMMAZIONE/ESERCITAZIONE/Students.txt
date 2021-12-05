@@ -1,0 +1,85 @@
+/*
+ * 		01
+ *      Esercizio Affinamenti Successivi e Implementazione
+ */ 
+
+Scrivere un programma in C, dopo averlo scomposto attraverso il metodo degli affinamenti successivi, che permetta di effettuare alcune analisi sulle carriere accademiche degli Studenti.
+
+Nello specifico, il sistema deve distinguere studenti iscritti ad un corso di Laurea Triennale (T) e studenti iscritti ad un corso di Laurea Magistrale (M).
+
+Il programma farà inserire all'utente un numero arbitrario di studenti. Per ogni studente, l'utente deve specificare:
+- Il tipo di studente: Triennale (T) o Magistrale (M);
+- Il numero di esami che lo studente ha sostenuto;
+- Per ogni esame, l'utente inserirà il voto conseguito;
+
+Alla fine dell'inserimento di tutti gli studenti, il sistema stamperà a schermo le seguenti informazioni:
+- La media delle medie dei voti degli studenti iscritti ad un corso di Laurea Triennale;
+	(Esempio: se Studente_1 ha una media di 24 e Studente_2 ha una media di 28, la media delle media sarà 26, indipedentemente dal numero di esami sostenuti dal singolo studente)
+- La media delle medie dei voti degli studenti iscritti ad un corso di Laurea Magistrale (stessa logica del punto precedente);
+- La media delle medie di tutti gli studenti (Triennale e Magistrale);
+- La media più alta degli studenti Triennali;
+	(La media dello studente Triennale che ha la più alta media fra gli studenti Triennali)
+- La media più alta degli studenti Magistrali (stessa logica del punto precedente);
+- La media più alta fra tutti gli studenti (Triennale e Magistrale).
+
+--> Soluzione parziale
+
+
+[0] Acquisisci le informazioni degli studenti T e M e calcola le statistiche richieste (medie)
+
+
+
+[1] 
+(*) Acquisisci le informazioni degli studenti T e M e calcola le statistiche richieste
+-   Inizializzazione delle variabili
+-   Inserimento delle informazioni degli studenti
+-   Calcola le informazioni richieste e mostrale a schermo
+
+
+
+
+[2]
+(*) Inizializzazione delle variabili
+- Inizializza SUM_T=0, SUM_M=0
+- Inizializza CONT_T=0, CONT_M=0
+- Inizializza MAX_VOTO_T=0, MAX_VOTO_M=0, MAX_VOTO_G=0
+
+(*) Inserimento delle informazioni degli studenti
+- Inserisci il tipo di studente in TIPO_STUD
+- Inserisci le informazioni sugli esami
+- Aggiorna le variabili
+
+(*) Calcola le informazioni richieste e mostrale a schermo
+- Calcola la media delle medie degli studenti T come SUM_T/CONT_T
+- Calcola la media delle medie degli studenti M come SUM_M/CONT_M
+- Mostra MAX_VOTO_T
+- Mostra MAX_VOTO_M
+- Mostra MAX_VOTO_G
+
+
+
+[3]
+(*) Inserisci le informazioni sugli esami
+- Inserisci il numero di esami in NUMERO_ESAMI
+- Inizializza SOMMA_CORRENTE=0
+- Per I=0 fino a NUMERO_ESAMI
+	- Inserisci il voto corrente in VOTO_CORRENTE
+	- SOMMA_CORRENTE = SOMMA_CORRENTE + VOTO_CORRENTE
+- Calcola la media dello studente corrente come MEDIA_CORRENTE=SOMMA_CORRENTE/NUMERO_ESAMI
+
+
+(*) Aggiornare le variabili (tenere traccia del max (sulla base del tipoStud) e sommare la media all'accum glob)
+- se TIPO_STUD == T
+	CONT_T++
+	SUM_T = SUM_T + MEDIA_CORRENTE
+
+	se MEDIA_CORRENTE > MAX_T
+		MAX_T = MEDIA_CORRENTE
+
+- se TIPO_STUD == M
+	CONT_M++
+	SUM_M = SUM_M + MEDIA_CORRENTE
+	se MEDIA_CORRENTE > MAX_M
+		MAX_M = MEDIA_CORRENTE
+
+** DA COMPLETARE **
