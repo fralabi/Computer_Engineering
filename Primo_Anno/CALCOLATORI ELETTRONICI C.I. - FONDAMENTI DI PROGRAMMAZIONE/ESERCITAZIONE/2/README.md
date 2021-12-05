@@ -52,6 +52,50 @@ Esempio:
   Numero di giorni: 3
   (Infatti 368 giorni formano 1 anno (365 giorni) e 3 giorni)
 ```
+
+### [Banconote.c](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/2/Banconote.c)
+Scrivere un programma in C che chieda all’utente di inserire un valore (int) che verrà interpretato come
+“importo in €”. Scomporre tale valore nel numero minimo di banconote e monete (si considerino
+soltanto banconote da 500€, 200€, 100€, 50€, 20€, 10€, 5€ e monete da 2€ e 1€).
+(suggerimento: usare operatore %)
+```
+Esempio:
+  L’utente inserisce il valore 868
+  Il programma stamperà a schermo:
+  1 Banconota da 500;
+  1 Banconota da 200;
+  1 Banconota da 100;
+  1 Banconota da 50;
+  0 Banconota da 20;
+  1 Banconota da 10;
+  1 Banconota da 5;
+  1 Moneta da 2;
+  1 Moneta da 1;
+```
+### [Secondi.c](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/2/Secondi.c)
+Scrivere un programma in C che chieda all’utente di inserire un valore (int) che verrà interpretato come
+“numero di secondi”. Scomporre tale valore in termini di ore, minuti e secondi.
+(suggerimento: usare operatore %)
+```
+Esempio:
+  L’utente inserisce il valore 124
+  Il programma stamperà a schermo:
+  Numero di ore: 0
+  Numero di minuti: 2
+  Numero di secondi: 4
+```
+
+### [Multiplo.c](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/2/Multiplo.c)
+Scrivere un programma in C che chieda all’utente di inserire 2 valori (int) e stabilisca se uno è multiplo
+dell’altro (non importa in che ordine)
+```
+Esempio:
+  L’utente inserisce i valori 8 16
+  Il programma stamperà a schermo:
+  Uno è multiplo dell’altro
+  (in quanto 16 è multiplo di 8)
+```
+
 ### [MaxValueof3.c](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/2/MaxValueof3.c)
 Scrivere un programma in C che chieda all’utente di inserire 3 valori (int).
 Calcolare il massimo fra i 3 valori.
