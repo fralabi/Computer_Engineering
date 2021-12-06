@@ -1,5 +1,12 @@
 # FISICA I
 
+## APPUNTI
+[Matematica.pdf](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiMatematica.pdf) <br>
+[Meccanica.pdf](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiMeccanica.pdf) <br>
+[Termodinamica.pdf](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiTermodinamica.pdf) <br>
+
+## PROGRAMMA
+
 #### INTRODUZIONE AL CORSO
 #### CONVERSIONE DI UNITA' DI MISURA 
 #### DERIVATA E INTEGRALE DI UNA FUNZIONE
