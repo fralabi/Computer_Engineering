@@ -8,7 +8,12 @@
 ## PROGRAMMA
 
 #### INTRODUZIONE AL CORSO
-#### CONVERSIONE DI UNITA' DI MISURA 
+[UNIT AND STANDARD](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/1-2-units-and-standards/) <br>
+
+#### CONVERSIONE DI UNITA' DI MISURA E VETTORI
+[PRODUCT OF VECTOR](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/2-4-products-of-vectors/) <br>
+[ALGEBRA OF VECTOR](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/2-3-algebra-of-vectors/) <br>
+[UNIT CONVERSION](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/1-3-unit-conversion/) <br>
 #### DERIVATA E INTEGRALE DI UNA FUNZIONE
 #### DINAMICA DEL PUNTO MATERIALE
 #### LAVORO, ENERGIA CINETICA E ENERGIA POTENZIALE
