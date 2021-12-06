@@ -14,6 +14,16 @@
 #### INTEGRALE DI RIEMANN
 #### CALCOLO INTEGRALE
 #### SERIE NUMERICHE
+### ESERCIZI 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## ANALISI 2
 #### SERIE DI POTENZE
@@ -21,3 +31,5 @@
 #### CURVE REGOLARI
 #### EQUAZIONI DIFFERENZIALI ORDINARIE
 #### EQUAZIONI DIFFERENZIALI LINEARI
+
+
