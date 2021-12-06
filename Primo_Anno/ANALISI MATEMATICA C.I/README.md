@@ -15,15 +15,18 @@
 #### CALCOLO INTEGRALE
 #### SERIE NUMERICHE
 ### ESERCIZI 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Introduttivi](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%20introduttivi.pdf)
+- [1](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%201.pdf)
+- [2](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%202.pdf)
+- [3](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%203.pdf)
+- [4](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%204.pdf)
+- [5](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%205.pdf)
+- [6](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%206.pdf)
+- [7](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%207.pdf)
+- [8](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%208.pdf)
+- [9](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%209.pdf)
+- [10](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%2010.pdf)
+- [11](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%2011.pdf)
 
 ## ANALISI 2
 #### SERIE DI POTENZE
