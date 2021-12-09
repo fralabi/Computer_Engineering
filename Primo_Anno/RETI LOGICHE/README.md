@@ -14,7 +14,7 @@
 #### ALGEBRA BOOLEANA
 [SOP FORM AND POS FORM, MINTERM AND MAXTERM](https://www.electronicshub.org/boolean-logic-sop-form-pos-form/) <br>
 [k-MAP](https://www.electronicshub.org/k-map-karnaugh-map/) <br>
-[IMPLICANTS IN k-MAP}](https://www.geeksforgeeks.org/various-implicants-in-k-map/) <br>
+[IMPLICANTS IN k-MAP](https://www.geeksforgeeks.org/various-implicants-in-k-map/) <br>
 [XOR GATE](https://www.electronicshub.org/exclusive-or-gatexor-gate/) <br>
 [DE MORGAN THEOREM](https://www.electronics-tutorials.ws/boolean/demorgan.html) <br>
 
