@@ -28,6 +28,8 @@
 - [9](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%209.pdf)
 - [10](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%2010.pdf)
 - [11](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%2011.pdf)
+- [12](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%2012.pdf)
+- [13](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%2013.pdf)
 
 ## ANALISI 2
 #### SERIE DI POTENZE
