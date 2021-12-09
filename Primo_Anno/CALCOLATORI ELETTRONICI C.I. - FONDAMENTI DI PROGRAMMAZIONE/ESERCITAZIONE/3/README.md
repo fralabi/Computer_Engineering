@@ -119,9 +119,9 @@ Scrivere, dopo averne disegnato il diagramma di flusso, un programma in C che st
 m numeri della successione di Fibonacci. Il valore m (int) deve essere inserito dall’utente.
 La successione di Fibonacci è definita come:
 ```
-n1 = 1
-n2 = 1
-ni = ni-1 + ni-2 (per n > 2)
+n(1) = 1
+n(2) = 1
+n(i) = n(i-1) + n(i-2) (per n > 2)
 ```
 
 ### [GuessTheNumber.c]()
