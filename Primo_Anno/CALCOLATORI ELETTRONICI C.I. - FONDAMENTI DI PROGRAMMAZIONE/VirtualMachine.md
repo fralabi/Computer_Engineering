@@ -12,8 +12,8 @@ Per poter programmare in modo sicuro senza provocare danni alla macchina princip
 [HOW TO INSTALL UBUNTU ON VIRTUALBOX](https://www.freecodecamp.org/news/how-to-install-ubuntu-with-oracle-virtualbox/)
 
 ### FACCIAMO IL SETUP DEL NOSTRO AMBIENTE E TESTIAMO IL NOSTRO AMBIENTE
-[INSTALL GCC COMPILER ON UBUNTU](https://linuxize.com/post/how-to-install-gcc-on-ubuntu-20-04/)
-
+[INSTALL GCC COMPILER ON UBUNTU](https://linuxize.com/post/how-to-install-gcc-on-ubuntu-20-04/) <br>
+[TEXT EDITOR](https://www.inmotionhosting.com/blog/ubuntu-text-editors/)
 
 ## ALTERNATIVE
 
