@@ -1,6 +1,6 @@
 
 <p align="center">
-<img height="400" weight="400" style="align:center" src="https://github.com/fralabi/images/blob/main/Carbone%20e%20Beige%20Semplice%20e%20Circolare%20Logo%20Evento%20di%20Scacchi.png">
+<img height="400" weight="400" style="align:center" src="https://github.com/fralabi/images/blob/main/LOGO%20ENGINEERING.png">
 </p>
 
 # FRALABI x COMPUTER ENGINEERING
