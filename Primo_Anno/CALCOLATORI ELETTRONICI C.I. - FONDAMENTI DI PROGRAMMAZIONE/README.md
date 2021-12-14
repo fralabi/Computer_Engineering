@@ -1,4 +1,6 @@
-# CALCOLATORI ELETTRONICI C.I. - FONDAMENTI DI PROGRAMMAZIONE
+<p align="center">
+<img height="400" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/FONDAMENTI%20DI%20PROGRAMMAZIONE.png">
+</p>
 
 #### INSTALLARE LA VIRTUAL MACHINE
 [TUTORIAL](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/VirtualMachine.md)
