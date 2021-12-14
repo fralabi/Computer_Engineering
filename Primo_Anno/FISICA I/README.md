@@ -1,4 +1,7 @@
-# FISICA I
+<p align="center">
+<img height="300" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/FISICA%20I.png">
+</p>
+
 
 ## APPUNTI
 [Matematica.pdf](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiMatematica.pdf) <br>
