@@ -1,4 +1,6 @@
-# RETI LOGICHE
+<p align="center">
+<img height="300" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/RETI%20LOGICHE.png">
+</p>
 
 #### RAPPRESENTAZIONE DELLE INFORMAZIONI
 [HEXADECIMAL](https://www.electronics-tutorials.ws/binary/bin_3.html) <br>
