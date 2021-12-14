@@ -1,5 +1,5 @@
 <p align="center">
-<img height="300" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/FISICA%20I.png">
+<img height="400" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/FISICA%20I.png">
 </p>
 
 
