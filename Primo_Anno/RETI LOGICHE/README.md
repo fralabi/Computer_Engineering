@@ -20,3 +20,10 @@
 
 ### OTHER
 [MOORE'S LAW](https://www.synopsys.com/glossary/what-is-moores-law.html)
+
+### PROVA IN ITINERE
+[NOVEMBRE]()
+
+### ESERCITAZIONI 
+[10-12-2021 (1° VERSIONE)]() <br>
+[10-12-2021 (2° VERSIONE)]()
