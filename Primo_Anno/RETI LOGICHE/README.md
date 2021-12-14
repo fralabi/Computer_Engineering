@@ -22,8 +22,8 @@
 [MOORE'S LAW](https://www.synopsys.com/glossary/what-is-moores-law.html)
 
 ### PROVA IN ITINERE
-[NOVEMBRE]()
+[NOVEMBRE](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/PROVA%20ITINERE%20NOVEMBRE.pdf)
 
 ### ESERCITAZIONI 
-[10-12-2021 (1° VERSIONE)]() <br>
-[10-12-2021 (2° VERSIONE)]()
+[10-12-2021 (1° VERSIONE)](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESERCITAZIONE%2010-12-2021%20(1%20VERSION).pdf) <br>
+[10-12-2021 (2° VERSIONE)](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESERCITAZIONE%2010-12-2021%20(2%20VERSIONE).pdf)
