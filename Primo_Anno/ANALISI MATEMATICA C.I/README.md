@@ -1,5 +1,5 @@
 <p align="center">
-<img height="400" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/ANALISI%20MATEMATICA%20C.I..png">
+<img height="400" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ANALISI%20MATEMATICA%20C.I..png">
 </p>
 
 
