@@ -23,6 +23,10 @@
 ### OTHER
 [MOORE'S LAW](https://www.synopsys.com/glossary/what-is-moores-law.html)
 
+<p align="center">
+<img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ESERCIZI(3).png">
+</p>
+
 ### PROVA IN ITINERE
 [NOVEMBRE](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/PROVA%20ITINERE%20NOVEMBRE.pdf)
 
