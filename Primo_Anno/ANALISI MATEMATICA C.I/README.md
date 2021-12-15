@@ -18,7 +18,10 @@
 #### INTEGRALE DI RIEMANN
 #### CALCOLO INTEGRALE
 #### SERIE NUMERICHE
-### ESERCIZI 
+<p align="center">
+<img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ESERCIZI(3).png">
+</p>
+
 - [Introduttivi](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%20introduttivi.pdf)
 - [1](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%201.pdf)
 - [2](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%202.pdf)
