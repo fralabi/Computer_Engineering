@@ -1,5 +1,5 @@
 <p align="center">
-<img height="400" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/FONDAMENTI%20DI%20PROGRAMMAZIONE.png">
+<img height="400" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/FONDAMENTI%20DI%20PROGRAMMAZIONE.png">
 </p>
 
 #### INSTALLARE LA VIRTUAL MACHINE
