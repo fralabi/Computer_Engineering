@@ -1,5 +1,5 @@
 <p align="center">
-<img height="400" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/RETI%20LOGICHE.png">
+<img height="400" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/RETI%20LOGICHE.png">
 </p>
 
 #### RAPPRESENTAZIONE DELLE INFORMAZIONI
