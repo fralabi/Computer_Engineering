@@ -1,10 +1,16 @@
 # ESERCITAZIONE FONDAMENTI DI PROGRAMMAZIONE
 
-### [Esercizi e svolgimenti della prima esercitazione](https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/1)
+<a href="https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/1" ><p align="center">
+<img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/PRIMA%20ESERCITAZIONE.png">
+</p></a>
 
-### [Esercizi e svolgimenti della seconda esercitazione](https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/2)
+<a href="https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/2" ><p align="center">
+<img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/SECONDA%20ESERCITAZIONE.png">
+</p></a>
 
-### [Esercizi e svolgimenti della terza esercitazione](https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/3)
+<a href="https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/3" ><p align="center">
+<img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/TERZA%20ESERCITAZIONE.png">
+</p></a>
 
 ### [Students](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/Students.txt) 
 Scrivere un programma in C, dopo averlo scomposto attraverso il metodo degli affinamenti successivi, che permetta di effettuare alcune analisi sulle carriere accademiche degli Studenti.
