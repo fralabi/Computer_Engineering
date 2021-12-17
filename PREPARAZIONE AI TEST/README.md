@@ -1,5 +1,10 @@
 
 <p align="center">
+<img height="400" weight="700" style="align:center" 
+src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/PREPARAZIONE%20AI%20TEST.png">
+</p>
+
+<p align="center">
 <img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/TOL%20UNIPA.png">
 </p>
 
