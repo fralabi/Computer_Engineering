@@ -33,4 +33,4 @@
 <img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/YOUTUBE%20PLAYLIST.png">
 </p>
 
-[Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+[3BLUE1BROWN - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
