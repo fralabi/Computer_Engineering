@@ -1,6 +1,6 @@
 # HOW TO INSTALL
 
-## [Icarus Veriloge GTKWave](https://bleyer.org/icarus/) <br>
+## [Icarus Verilog e GTKWave](https://bleyer.org/icarus/) <br>
 
 Per installare Icarus Verilog dovete scaricare l'ultima versione del programma <br>
 [iverilog-v11-20210204-x64_setup.exe [44.1MB]](https://bleyer.org/icarus/iverilog-v11-20210204-x64_setup.exe)
