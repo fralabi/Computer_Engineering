@@ -33,3 +33,5 @@
 ### ESERCITAZIONI 
 [10-12-2021 (1° VERSIONE)](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESERCITAZIONE%2010-12-2021%20(1%20VERSION).pdf) <br>
 [10-12-2021 (2° VERSIONE)](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESERCITAZIONE%2010-12-2021%20(2%20VERSIONE).pdf) <br>
+
+## [HOW TO INSTALL](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/HOWTOINSTALL.md)
