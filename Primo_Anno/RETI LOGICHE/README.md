@@ -23,6 +23,11 @@
 ### OTHER
 [MOORE'S LAW](https://www.synopsys.com/glossary/what-is-moores-law.html)
 
+### MATERIALE UTILE
+[DEFINIZIONI](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/DEFINIZIONI.pdf) <br>
+[MTBF PROGRAM](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/MTBF.exe) <br>
+[SYSTEMVERILOG CHEATSHEET](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/SystemVerilogCheatSheet.pdf) <br>
+
 <p align="center">
 <img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ESERCIZI(3).png">
 </p>
@@ -34,10 +39,6 @@
 [10-12-2021 (1° VERSIONE)](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESERCITAZIONE%2010-12-2021%20(1%20VERSION).pdf) <br>
 [10-12-2021 (2° VERSIONE)](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESERCITAZIONE%2010-12-2021%20(2%20VERSIONE).pdf) <br>
 
-### MATERIALE UTILE
-[DEFINIZIONI](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/DEFINIZIONI.pdf) <br>
-[MTBF PROGRAM](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/MTBF.exe) <br>
-[SYSTEMVERILOG CHEATSHEET](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/SystemVerilogCheatSheet.pdf) <br>
 ### ESAME 
 [18-01-2022]()
 
