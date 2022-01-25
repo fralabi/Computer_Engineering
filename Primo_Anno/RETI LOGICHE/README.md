@@ -34,8 +34,11 @@
 [10-12-2021 (1° VERSIONE)](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESERCITAZIONE%2010-12-2021%20(1%20VERSION).pdf) <br>
 [10-12-2021 (2° VERSIONE)](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESERCITAZIONE%2010-12-2021%20(2%20VERSIONE).pdf) <br>
 
+### MATERIALE UTILE
+[DEFINIZIONI](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/DEFINIZIONI.pdf) <br>
+[MTBF PROGRAM](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/MTBF.exe) <br>
+[SYSTEMVERILOG CHEATSHEET](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/SystemVerilogCheatSheet.pdf) <br>
 ### ESAME 
-[MATERIALE UTILE]()
 [18-01-2022]()
 
 ## [HOW TO INSTALL](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/HOWTOINSTALL.md)
