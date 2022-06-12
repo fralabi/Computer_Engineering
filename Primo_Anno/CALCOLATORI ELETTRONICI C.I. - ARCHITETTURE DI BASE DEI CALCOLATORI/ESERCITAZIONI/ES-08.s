@@ -1,7 +1,7 @@
 @ int
 @ odd(int *array, size_t size);
 
-.global
+.global odd
 
 odd:
     array   .req r0

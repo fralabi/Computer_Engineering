@@ -1,7 +1,7 @@
 @ int
 @ greather_than_fifteen(int *array, size_t size);
 
-.global
+.global greather_than_fifteen
 
 greather_than_fifteen:
 
