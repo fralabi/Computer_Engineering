@@ -5,7 +5,7 @@
 ```
 [ES-01.c](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20ARCHITETTURE%20DI%20BASE%20DEI%20CALCOLATORI/ESERCITAZIONI/ES-01.c)<br>
 [ES-01.s](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20ARCHITETTURE%20DI%20BASE%20DEI%20CALCOLATORI/ESERCITAZIONI/ES-01.s)<br>
-[ES_01_2](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20ARCHITETTURE%20DI%20BASE%20DEI%20CALCOLATORI/ESERCITAZIONI/ES-01_2.s)<br><br>
+[ES-01_2.s](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20ARCHITETTURE%20DI%20BASE%20DEI%20CALCOLATORI/ESERCITAZIONI/ES-01_2.s)<br><br>
 
 #### MAX_INDEX
 ```
