@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void max_index(int *array, size_t size);
+void increment_array(int *array, size_t size);
 
 int main(void)
 {
@@ -16,7 +16,7 @@ int main(void)
     size_t size;
     size = sizeof(array)/sizeof(int);
     
-    max_index(array, size);
+    increment_array(array, size);
 
     return 0;
 }
