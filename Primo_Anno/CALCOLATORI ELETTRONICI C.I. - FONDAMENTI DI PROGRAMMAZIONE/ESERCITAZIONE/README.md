@@ -14,7 +14,8 @@
 </p></a>
 
 <a href="https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/ESAMI">
-<p align="center"> ESAMI
+<p align="center">
+<img height="50"  style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ESAMI.png">
 </p></a>
 
 ### [Students](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/Students.txt) 
