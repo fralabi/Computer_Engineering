@@ -8,8 +8,13 @@
 <img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/SECONDA%20ESERCITAZIONE.png">
 </p></a>
 
-<a href="https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/3" ><p align="center">
+<a href="https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/3" >
+<p align="center">
 <img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/TERZA%20ESERCITAZIONE.png">
+</p></a>
+
+<a href="https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/ESAMI">
+<p align="center"> ESAMI
 </p></a>
 
 ### [Students](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/Students.txt) 
