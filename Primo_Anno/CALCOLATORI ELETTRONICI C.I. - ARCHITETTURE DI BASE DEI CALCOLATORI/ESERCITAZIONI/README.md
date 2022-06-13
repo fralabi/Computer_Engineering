@@ -101,3 +101,12 @@
 [ES-08.c](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20ARCHITETTURE%20DI%20BASE%20DEI%20CALCOLATORI/ESERCITAZIONI/ES-08.c)<br>
 [ES-08.s](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20ARCHITETTURE%20DI%20BASE%20DEI%20CALCOLATORI/ESERCITAZIONI/ES-08.s)<br><br>
 
+#### DIVIDE_BY_16_AND_SUBSTITUTE
+```
+    Scrivere in assembly ARM 32 una subroutine richiamabile in C che modifichi un array 
+    di unsigned int passato come argomento sostituendo a ciascun valore il resto della 
+    sua divisione per 16. La subroutine deve restituire il numero dei valori modificati. 
+    Includere nella risposta anche un esempio d'uso in C.
+```
+[ES-09.c](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20ARCHITETTURE%20DI%20BASE%20DEI%20CALCOLATORI/ESERCITAZIONI/ES-09.c)<br>
+[ES-09.s](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20ARCHITETTURE%20DI%20BASE%20DEI%20CALCOLATORI/ESERCITAZIONI/ES-09.s)<br><br>
