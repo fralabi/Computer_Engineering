@@ -1,5 +1,5 @@
 /*
-    Scrivere in assembly arm 32 una subroutine richiamabile da C che restituisca il numero di 
+    Scrivere in assembly ARM 32 una subroutine richiamabile da C che restituisca il numero di 
     valori dispari contenuti in un array di int passato come argomento. 
     Includere nella risposta anche un esempio d'uso in C.
 */
