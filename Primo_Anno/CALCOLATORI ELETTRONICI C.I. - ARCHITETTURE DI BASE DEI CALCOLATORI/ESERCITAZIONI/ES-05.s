@@ -1,5 +1,5 @@
 @ void
-@ divide_by_four(int *array, size_t size);
+@ divide_by_four(unsigned int *array, size_t size);
 
 .global
 
