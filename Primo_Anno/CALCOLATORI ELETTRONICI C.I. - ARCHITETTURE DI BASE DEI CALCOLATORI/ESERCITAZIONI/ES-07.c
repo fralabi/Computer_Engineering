@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int greather_than_fifteen(int *array, size_t size);
+int greather_than_fiftheen(int *array, size_t size);
 
 int main(void) {
 
@@ -15,5 +15,5 @@ int main(void) {
     size_t size;
     size = sizeof(array)/sizeof(int);
 
-    printf("There are %d values greather than 15", greather_than_fifteen(array, size));
+    printf("There are %d values greather than 15", greather_than_fiftheen(array, size));
 }
