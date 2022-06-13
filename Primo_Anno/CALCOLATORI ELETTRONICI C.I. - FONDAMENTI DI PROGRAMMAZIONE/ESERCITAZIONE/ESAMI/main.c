@@ -4,7 +4,6 @@
 #define ROWS 4
 #define COLS 5
 
-//void array_print(int ++arr, size_t rows, size_t, cols)
 void mat_print(size_t rows, size_t cols, int mat[][cols]);
 
 void array_print(int *array, size_t size);
