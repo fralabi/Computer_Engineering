@@ -46,3 +46,32 @@ in linguaggio C:
     array di studenti elenco di dimensione size, retituisca 1 se l’array contiene lo studente con
     identificativo id, 0 altrimenti. Implementare la funzione adottando un approccio ricorsivo.
 ```
+[main.c](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/ESAMI/main.c)
+```
+Implementare in C la funzione int *function_01(int rows, int cols, int mat[][cols], int *min_of_max)
+che, data la matrice mat di rows righe e cols colonne, restituisca l’array max_of_rows in cui l’elemento
+di posizione i rappresenta il valore massimo della riga i-esima della matrice mat. Inoltre, restituire il
+valore minimo di max_of_rows in min_of_max.
+
+                                            | 3   8   5   2   1 |
+                                            | 5   1   7   3   4 |
+                                            | 3   1   9   7   2 |
+                                            | 2   1   4   5   3 |
+```
+[main2.c](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/CALCOLATORI%20ELETTRONICI%20C.I.%20-%20FONDAMENTI%20DI%20PROGRAMMAZIONE/ESERCITAZIONE/ESAMI/main2.c)
+```
+Un’Università ha necessità di un software per la gestione delle carriere accademiche degli studenti iscritti.
+Ogni studente, che può essere iscritto ad un corso di Laurea Triennale, Magistrale o a Ciclo Unico, è
+identificato univocamente da un identificativo, da un anno di immatricolazione, dall’identificativo del
+Corso di Laurea e dagli esami sostenuti, con i relativi voti. Si supponga che ogni esame sostenuto sia
+identificato soltanto dal codice insegnamento.
+Definire un’opportuna struct student_t per descrivere uno studente, valutando quale tipo di dato
+utilizzare per ogni attributo, e implementare le seguenti funzioni in linguaggio C:
+
+    (a) *retval* student_max_avg(student_t *students, size_t size) che, ricevuto un array di stu-
+    denti students di dimensione size, restituisca l’identificativo dello studente con la media dei voti più alta.
+
+    (b) int student_sum_of_exams(student_t *students, size_t size) che, ricevuto un array di stu-
+    denti students di dimensione size, restituisca il numero totale di esami sostenuti fra tutti gli stu-
+    denti iscritti ad un corso di Laurea Magistrale. Implementare la funzione adottando un approccio ricorsivo.
+```
