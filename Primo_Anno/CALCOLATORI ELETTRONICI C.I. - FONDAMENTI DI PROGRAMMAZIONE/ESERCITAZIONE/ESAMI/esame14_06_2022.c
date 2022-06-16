@@ -39,7 +39,7 @@ int f(int rows, int cols, int mat[][cols], int *avg) {
     }
 
     printf("\n");
-    avg=sum/pari;
+    *avg=sum/pari;
 
     return pari
 }
