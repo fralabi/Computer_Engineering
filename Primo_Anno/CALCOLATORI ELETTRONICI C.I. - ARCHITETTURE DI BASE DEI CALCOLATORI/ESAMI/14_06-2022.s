@@ -30,7 +30,7 @@ less_than:
     .unreq limite
     .unreq value
 
-    r0, less    @ return less
+    mov r0, less    @ return less
 
     pop {r4}
 
