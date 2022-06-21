@@ -30,15 +30,12 @@ int is_prime( int number) {
 int row_prime(int *row, size_t size) {
 
     for(size_t i=0; i<size; ++i) {
-        if (!(is_prime(row[i]))) {
-            return 0;
+        if ((is_prime(row[i]))) {
+            return 1;
         }
-        else {
-            continue;
-        }
+        continue;
     }
-
-    return 1;
+    return 0;
 }
 
 int mat_prime(int dim, int mat[][dim]) {
