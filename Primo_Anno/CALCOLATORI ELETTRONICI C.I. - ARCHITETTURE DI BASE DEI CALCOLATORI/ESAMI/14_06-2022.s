@@ -10,7 +10,7 @@ less_than:
     limite  .req r2
     value   .req r3
 
-    pop {r4}
+    push {r4}
 
     less    .req r4
 
@@ -30,9 +30,9 @@ less_than:
     .unreq limite
     .unreq value
 
-    r0, less    @ return less
+    mov r0, less    @ return less
 
-    push {r4}
+    pop {r4}
 
 end:
     bx lr
