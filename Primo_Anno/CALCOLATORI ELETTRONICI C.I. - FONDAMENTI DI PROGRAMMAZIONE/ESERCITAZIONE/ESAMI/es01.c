@@ -33,7 +33,6 @@ int row_prime(int *row, size_t size) {
         if ((is_prime(row[i]))) {
             return 1;
         }
-        continue;
     }
     return 0;
 }
