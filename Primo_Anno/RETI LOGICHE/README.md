@@ -40,7 +40,7 @@
 [10-12-2021 (2° VERSIONE)](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESERCITAZIONE%2010-12-2021%20(2%20VERSIONE).pdf) <br>
 
 ### ESAME 
-[18-01-2022]()
+[19-01-2022](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/ESAME%2019-01-2022.pdf)
 
 ## [HOW TO INSTALL](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/HOWTOINSTALL.md)
 ## [HOW TO USE](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/RETI%20LOGICHE/HOWTOUSE.md)
