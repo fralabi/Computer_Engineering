@@ -4,20 +4,27 @@
 
 
 ## ANALISI 1
-#### INSIEMI NUMERICI
-#### FUNZIONI DI VARIABILE REALE
+#### TEORIA DEGLI INSIEMI
+[Operazioni sugli insiemi]() <br>
+[Cenni di Logica Elementare]() <br>
+#### NUMERI REALI
+[]() <br>
+[]() <br>
+[]() <br>
+[]() <br>
 #### NUMERI COMPLESSI
+[]() <br>
+[]() <br>
+[]() <br>
+[]() <br>
 #### SUCCESSIONI NUMERICHE
 [LIMITI NOTEVOLI DI SUCCESSIONI](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/LIMITI%20NOTEVOLI%20DI%20SUCCESSIONI.pdf)
-#### LIMITI DI FUNZIONI
+#### FUNZIONI
 [LIMITI NOTEVOLI DI FUNZIONI](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/LIMITI%20NOTEVOLI%20DI%20FUNZIONI.pdf)
-#### FUNZIONI CONTINUE
-#### FUNZIONI DERIVABILI
 [DERIVATE FONDAMENTALI](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/DERIVATE%20FONDAMENTALI.pdf)
 #### CALCOLO DIFFERENZIALE
-#### INTEGRALE DI RIEMANN
 #### CALCOLO INTEGRALE
-#### SERIE NUMERICHE
+
 <p align="center">
 <img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ESERCIZI(3).png">
 </p>
@@ -38,10 +45,13 @@
 - [13](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/ANALISI%20MATEMATICA%20C.I/Esercizi%2013.pdf)
 
 ## ANALISI 2
-#### SERIE DI POTENZE
-#### INTEGRALI DOPPI
-#### CURVE REGOLARI
-#### EQUAZIONI DIFFERENZIALI ORDINARIE
-#### EQUAZIONI DIFFERENZIALI LINEARI
-
+#### SERIE NUMERICHE
+#### ANCORA CALCOLO DIFFERENZIALE
+#### ELEMENTI DI TOPOLOGIA IN R^2
+#### CALCOLO DIFFERENZIALE
+#### CURVE
+#### INTEGRALI MULTIPLI
+#### SUPERFICI 
+#### CAMPI VETTORIALI
+#### EQUAZIONI DIFFERENZIALI
 
