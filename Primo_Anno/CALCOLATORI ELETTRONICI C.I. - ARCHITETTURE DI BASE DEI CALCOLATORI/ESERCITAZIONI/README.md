@@ -29,11 +29,11 @@
 #### THRESHOLD
 ```
     Scrivere in assembly ARM 32 una subroutine richiamabile in C che azzeri i valori
-    del generico array di int passato come argomento di valore inferiore 0. 
+    del generico array di int passato come argomento di valore inferiore a 0. 
     La funzione deve restituire il numero di elementi modificati. 
     Includere nella risposta anche un esempio d'uso in C.
 
-    ESEMPIO D'USO (con soglia pari a 5):
+    ESEMPIO D'USO:
 
     $ ./threshold
 
