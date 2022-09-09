@@ -19,3 +19,8 @@
 <a href="https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/RETI%20LOGICHE"><img height="300" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/RETI%20LOGICHE.png"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/fralabi/Computer_Engineering/tree/main/Primo_Anno/ALGEBRA"><img height="300" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ALGEBRA.png"></a>
+</p>
+
+
