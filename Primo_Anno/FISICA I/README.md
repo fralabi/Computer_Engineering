@@ -28,3 +28,9 @@
 #### INTERPRETAZIONE CINETICA DELLE PRESSIONE E DELLA TEMPERATURA DEI GAS PERFETTI
 #### PROCESSI REVERSIBILI E IRREVERSIBILI
 #### DINAMICA DEI FLUIDI
+
+<p align="center">
+<img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ESERCIZI(3).png">
+</p>
+
+[ESAMI PASSATI](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/ESERCIZI%20FISICA%20I.pdf)
