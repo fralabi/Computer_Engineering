@@ -4,15 +4,17 @@
 
 
 ## APPUNTI
-[Matematica.pdf](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiMatematica.pdf) <br>
-[Meccanica.pdf](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiMeccanica.pdf) <br>
-[Termodinamica.pdf](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiTermodinamica.pdf) <br>
+[MATEMATICA](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiMatematica.pdf) <br>
+[MECCANICA](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiMeccanica.pdf) <br>
+[TERMODINAMICA](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/appuntiTermodinamica.pdf) <br><br>
+
+[MIEI APPUNTI MECCANICA](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/FISICA%20-%20MECCANICA.pdf) <br>
+[MIEI APPUNTI TERMODINAMICA](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/FISICA%20-%20TERMODINAMICA.pdf) <br>
 
 ## PROGRAMMA
 
 #### INTRODUZIONE AL CORSO
 [UNIT AND STANDARD](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/1-2-units-and-standards/) <br>
-
 #### CONVERSIONE DI UNITA' DI MISURA E VETTORI
 [PRODUCT OF VECTOR](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/2-4-products-of-vectors/) <br>
 [ALGEBRA OF VECTOR](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/2-3-algebra-of-vectors/) <br>
