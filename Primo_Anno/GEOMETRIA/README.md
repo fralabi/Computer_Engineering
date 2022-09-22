@@ -2,7 +2,14 @@
 <img height="400" weight="700" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/GEOMETRIA.png">
 </p>
 
-## ARGOMENTI
+## APPUNTI
+[Parte 1](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/GEOMETRIA/GEOMETRIA-1-87.pdf)<br>
+[Parte 2](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/GEOMETRIA/GEOMETRIA-88-175.pdf)<br>
+[Riassunto 1](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/GEOMETRIA/APPUNTI.pdf)<br>
+[Riassunto 2](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/GEOMETRIA/APPUNTI%202.pdf)<br>
+[Riassunto 3](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/GEOMETRIA/APPUNTI%203.pdf)<br>
+
+<!-- ## ARGOMENTI
 #### GRUPPO
 #### CAMPO
 #### SPAZIO VETTORIALE
@@ -16,7 +23,7 @@
 
 #### INVERSA DI UNA MATRICE
 #### RANGO
-
+-->
 <p align="center">
 <img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ESERCIZI(3).png">
 </p>
