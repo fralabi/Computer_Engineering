@@ -11,7 +11,8 @@
 [MIEI APPUNTI MECCANICA](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/FISICA%20-%20MECCANICA.pdf) <br>
 [MIEI APPUNTI TERMODINAMICA](https://github.com/fralabi/Computer_Engineering/blob/main/Primo_Anno/FISICA%20I/FISICA%20-%20TERMODINAMICA.pdf) <br>
 
-## PROGRAMMA
+<!-- ## PROGRAMMA
+
 
 #### INTRODUZIONE AL CORSO
 [UNIT AND STANDARD](https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/1-2-units-and-standards/) <br>
@@ -29,7 +30,7 @@
 #### IL CALORE 
 #### INTERPRETAZIONE CINETICA DELLE PRESSIONE E DELLA TEMPERATURA DEI GAS PERFETTI
 #### PROCESSI REVERSIBILI E IRREVERSIBILI
-#### DINAMICA DEI FLUIDI
+#### DINAMICA DEI FLUIDI -->
 
 <p align="center">
 <img height="50" style="align:center" src="https://github.com/fralabi/images/blob/main/COMPUTER_ENGINEERING/ESERCIZI(3).png">
