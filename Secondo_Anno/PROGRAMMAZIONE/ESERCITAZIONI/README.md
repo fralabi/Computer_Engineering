@@ -1,6 +1,6 @@
 ## ESERCITAZIONI
 
-### 01
+### PRIMA ESERCITAZIONE
   2 [HelloWorld.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/HelloWorld.java)<br>
   3 [Moltiplica.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Moltiplica.java)<br>
   4.1 [From50to100.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/From50to100.java)<br>
@@ -10,4 +10,15 @@
   5.3 [OddInversePrintArgs.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/OddInversePrintArgs.java)<br>
   6 [Equals.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Equals.java)<br>
   7 [SumofArguments.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/SumofArguments.java)<br>
+  
+### SECONDA ESERCITAZIONE 
+  1 [CalcolatriceFasulla.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/CalcolatriceFasulla.java)<br>
+  2.1 [NumeroInterno.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/NumeroIntero.java)<br>
+  2.2 [DueNumeri.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/DueNumeri.java)<br>
+  3.1 [Quadrato.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Quadrato.java)<br>
+  3.2 [TestQuadrato.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TestQuadrato.java)<br>
+  4.1 [Rettangolo.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Rettangolo.java)<br>
+  4.2 [TestRettangolo.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TestRettangolo.java)<br>
+  5 [NumeriPrimi.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/NumeriPrimi.java)<br>
+  
   
