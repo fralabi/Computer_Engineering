@@ -1,8 +1,8 @@
 public class Persona {
 
-    private String nome;
-    private String cognome;
-    private int eta;
+    public String nome;
+    public String cognome;
+    public int eta;
 
     public Persona() {
     }
@@ -39,6 +39,15 @@ public class Persona {
 
     public String toString() {
         return "Mi chiamo " + nome + " " + cognome + " ed ho " + eta + " anni";
+    }
+
+    public void equals(Persona persona) {
+        if (this.nome.equals(persona.nome) && this.cognome.equals(persona.nome) && this.eta == persona.eta) {
+            System.out.println("SIAMO UGUALI");
+        }
+        else {
+            System.out.println("NON SIAMO UGUALI");
+        }
     }
     
 }
