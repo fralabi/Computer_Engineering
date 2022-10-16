@@ -21,4 +21,13 @@
   4.2 [TestRettangolo.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TestRettangolo.java)<br>
   5 [NumeriPrimi.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/NumeriPrimi.java)<br>
   
+### TERZA ESERCITAZIONE
+  1 [SommaVettori.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/SommaVettori.java)<br>
+  2 [SommaMatrici.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/SommaMatrici.java)<br>
+  3 [Calcolatrice.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Calcolatrice.java)<br>
+  4 [TestMatematica.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TestMatematica.java)<br>
+  5.1 [Dado.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Dado.java)<br>
+  5.2 [TestDado.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TestDado.java)<br>
+  6.1 [Persona.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Persona.java)<br>
+  6.2 [Principale.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Principale.java)<br>
   
