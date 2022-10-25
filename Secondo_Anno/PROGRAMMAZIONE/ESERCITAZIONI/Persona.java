@@ -1,8 +1,8 @@
 public class Persona {
 
-    public String nome;
-    public String cognome;
-    public int eta;
+    private String nome;
+    private String cognome;
+    private int eta;
 
     public Persona() {
     }
@@ -37,17 +37,39 @@ public class Persona {
         this.eta = eta;
     }
 
+    @Override
     public String toString() {
         return "Mi chiamo " + nome + " " + cognome + " ed ho " + eta + " anni";
     }
 
-    public void equals(Persona persona) {
+    public boolean equals(Persona persona) {
         if (this.nome.equals(persona.nome) && this.cognome.equals(persona.nome) && this.eta == persona.eta) {
-            System.out.println("SIAMO UGUALI");
+            return true;
         }
         else {
-            System.out.println("NON SIAMO UGUALI");
+            return false;
         }
+    }
+
+    //https://www.geeksforgeeks.org/overriding-equals-method-in-java/
+    public boolean equals(Object object) {
+        
+        // If the object is compared with itself then return true 
+        if (object == this) {
+            return true;
+        }
+ 
+        /* Check if o is an instance of Persona or not
+          "null instanceof [type]" also returns false */
+        if (!(object instanceof Persona)) {
+            return false;
+        }
+         
+        // Create instance of Persona
+        Persona persona = (Persona) object;
+
+        //Make the comparison of name
+        return this.nome.equals(persona.nome);
     }
     
 }
