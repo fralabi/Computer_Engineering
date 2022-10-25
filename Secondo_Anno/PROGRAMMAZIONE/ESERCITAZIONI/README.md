@@ -32,4 +32,10 @@
   6.2 [Principale.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Principale.java)<br>
   
   ### QUARTA ESERCITAZIONE
-  1 [
+  1 [ProgrammaInterattivo.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/ProgrammaInterattivo.java)<br>
+  2.1 [Persona.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Persona.java)<br>
+  2.2 [Principale.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Principale.java)<br>
+  3 [ProgrammaInterattivoUpdated.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/ProgrammaInterattivoUpdated.java)<br>
+  4 [CheBelProgramma.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/CheBelProgramma.java)<br>
+  5.1 [Punto.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Punto.java)<br>
+  5.2 [TantiPunti.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TantiPunti.java)<br>
