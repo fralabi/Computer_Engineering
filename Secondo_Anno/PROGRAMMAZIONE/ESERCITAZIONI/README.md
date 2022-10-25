@@ -31,3 +31,5 @@
   6.1 [Persona.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Persona.java)<br>
   6.2 [Principale.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Principale.java)<br>
   
+  ### QUARTA ESERCITAZIONE
+  1 [
