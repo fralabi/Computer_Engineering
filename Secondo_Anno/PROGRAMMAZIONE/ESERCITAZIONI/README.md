@@ -41,5 +41,30 @@
   5.2 [TantiPunti.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TantiPunti.java)<br>
   
   ### [QUINTA ESERCITAZIONE]
+  1.1 [Punto.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Punto.java)<br>
+  1.2 [TantiPunti.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TantiPunti.java)<br>
+  2.1 [Persona.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Persona.java)<br>
+  2.2 [ProvaPersona.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/ProvaPersona.java)<br>
+  3.1 [Razionale.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Razionale.java)<br>
+  3.2 [ProvaRazioanle.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/ProvaRazionale.java)<br>
+  4.1 [Date.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Date.java)<br>
+  4.2 [ProvaDate.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/ProvaDate.java)<br>
+  5.1 [Studente.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Studente.java)<br>
+  5.2 [ProvaStudente.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/ProvaStudente.java)<br>
   
   ### [SESTA ESERCITAZIONE]
+  1.1 [SingletonScanner.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/SingletonScanner.java)<br>
+  1.2 [CheBelProgrammaWithSingleton.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/CheBelProgrammaWithSingleton.java)<br>
+  2.1 [IntegerSet.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/IntegerSet.java)<br>
+  2.2 [ProvaIntegerSet.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/ProvaIntegerSet.java)<br>
+  3.1 [IntegerSetUpdated.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/IntegerSetUpdated.java)<br>
+  3.2 [ProvaIntegerSetUpdated.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/ProvaIntegerSetUpdated.java)<br>
+  4.1 [Shape.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Shape.java)<br>
+  4.2 [Circle.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Circle.java)<br>
+  4.3 [Rectangle.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Rectangle.java)<br>
+  4.4 [Square.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Square.java)<br>
+  5.1 [Point2D.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Point2D.java)<br>
+  5.2 [Line.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Line.java)<br>
+  6.1 [Point3D.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Point3D.java)<br>
+  6.2 [Plain.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Plane.java)<br>
+  
