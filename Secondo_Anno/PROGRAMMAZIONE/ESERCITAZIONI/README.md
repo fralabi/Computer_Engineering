@@ -1,6 +1,6 @@
 ## ESERCITAZIONI
 
-### [PRIMA ESERCITAZIONE](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Es01AA2223.pdf)
+### [PRIMA ESERCITAZIONE]
   2 [HelloWorld.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/HelloWorld.java)<br>
   3 [Moltiplica.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Moltiplica.java)<br>
   4.1 [From50to100.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/From50to100.java)<br>
@@ -11,7 +11,7 @@
   6 [Equals.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Equals.java)<br>
   7 [SumofArguments.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/SumofArguments.java)<br>
   
-### [SECONDA ESERCITAZIONE](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Es02AA2223.pdf)
+### [SECONDA ESERCITAZIONE]
   1 [CalcolatriceFasulla.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/CalcolatriceFasulla.java)<br>
   2.1 [NumeroInterno.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/NumeroIntero.java)<br>
   2.2 [DueNumeri.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/DueNumeri.java)<br>
@@ -21,7 +21,7 @@
   4.2 [TestRettangolo.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TestRettangolo.java)<br>
   5 [NumeriPrimi.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/NumeriPrimi.java)<br>
   
-### [TERZA ESERCITAZIONE](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Es03AA2223.pdf)
+### [TERZA ESERCITAZIONE]
   1 [SommaVettori.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/SommaVettori.java)<br>
   2 [SommaMatrici.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/SommaMatrici.java)<br>
   3 [Calcolatrice.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Calcolatrice.java)<br>
@@ -31,7 +31,7 @@
   6.1 [Persona.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Persona2.java)<br>
   6.2 [Principale.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Principale2.java)<br>
   
-  ### [QUARTA ESERCITAZIONE](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Es04AA2223.pdf)
+  ### [QUARTA ESERCITAZIONE]
   1 [ProgrammaInterattivo.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/ProgrammaInterattivo.java)<br>
   2.1 [Persona.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Persona.java)<br>
   2.2 [Principale.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Principale.java)<br>
@@ -39,3 +39,7 @@
   4 [CheBelProgramma.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/CheBelProgramma.java)<br>
   5.1 [Punto.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/Punto.java)<br>
   5.2 [TantiPunti.java](https://github.com/fralabi/Computer_Engineering/blob/main/Secondo_Anno/PROGRAMMAZIONE/ESERCITAZIONI/TantiPunti.java)<br>
+  
+  ### [QUINTA ESERCITAZIONE]
+  
+  ### [SESTA ESERCITAZIONE]
