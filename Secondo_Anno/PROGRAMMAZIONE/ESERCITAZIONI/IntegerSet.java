@@ -2,9 +2,10 @@ public class IntegerSet {
     
     private boolean[] number = new boolean[100];
 
-    public IntegerSet() {
-        for (boolean num : number) {
-            num = false;
+    public IntegerSet() //L'ARRAY DI BOOLEAN E' COMUNQUE SETTATO A FALSE DI DEFAULT
+    {
+        for (int i=0; i<100; i++) {
+            number[i] = false;
         }
     }
 
