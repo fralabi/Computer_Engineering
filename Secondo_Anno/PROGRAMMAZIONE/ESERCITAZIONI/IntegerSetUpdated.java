@@ -54,7 +54,7 @@ public class IntegerSetUpdated {
     }
 
     public void deleteElement(int num) {
-        number.remove(num);
+        number.remove((Object) num);
     }
 
     public String toString() {
